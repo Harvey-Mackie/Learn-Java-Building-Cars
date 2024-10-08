@@ -87,7 +87,6 @@ Hint - https://medium.com/@aydinserbest34/understanding-dependencies-in-object-o
 ## Challenge 8: [ADVANCED] Create Subclasses of Cars
 **Objective:** Introduce inheritance by creating different types of cars (e.g., ElectricCar, GasCar) that extend the `Car` class.
 Hint - https://www.w3schools.com/java/java_inheritance.asp
----
 
 ### Steps:
 
